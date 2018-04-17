@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: ￐ﾒ￐ﾘ￐ﾢ￐ﾐ￐ﾛ￐ﾘ￐ﾙ
+Build-Jdk: 1.8.0_77
+Created-By: Maven Integration for Eclipse
+
